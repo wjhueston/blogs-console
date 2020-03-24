@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+App.config.txt
 
 # JSG
 appsettings.json
